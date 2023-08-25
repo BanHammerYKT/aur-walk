@@ -1,0 +1,12 @@
+pkgbase = walk-bin
+	pkgdesc = Walk — a terminal navigator.
+	pkgver = 1.5.2
+	pkgrel = 1
+	url = https://github.com/antonmedv/walk
+	arch = x86_64
+	license = MIT
+	makedepends = git
+	source = https://github.com/antonmedv/walk/releases/download/v1.5.2/walk_linux_amd64
+	sha256sums = SKIP
+
+pkgname = walk-bin
