@@ -1,7 +1,7 @@
 # Maintainer: BanHammer
 pkgname=walk-bin
 _reponame=walk
-pkgver=1.5.2
+pkgver=1.6.2
 pkgrel=1
 pkgdesc='Walk — a terminal navigator.'
 arch=(x86_64)
